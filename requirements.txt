@@ -1,0 +1,12 @@
+# Core dependencies for Epstein Files Investigative Research Assistant
+google-genai>=1.49.0
+streamlit>=1.40.0
+python-dotenv>=1.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+tqdm>=4.66.0
+
+# OpenAI and LangChain for LLM generation
+openai>=1.0.0
+langchain>=0.1.0
+langchain-openai>=0.0.5
